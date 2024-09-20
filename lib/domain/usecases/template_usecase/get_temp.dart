@@ -2,7 +2,7 @@ import 'package:dartz/dartz.dart';
 import '../../../app/core/errors/failure.dart';
 import '../../../app/core/params/params.dart';
 import '../../../domain/entities/template.dart';
-import '../../../domain/repositories/template_repository.dart';
+import '../../../data/repositories/template_repository.dart';
 
 class GetTemp {
   final TemplateRepository repository;
