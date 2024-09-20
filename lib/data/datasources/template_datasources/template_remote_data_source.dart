@@ -1,7 +1,7 @@
-import '../../app/core/params/params.dart';
-import '../../app/services/api/api_services.dart';
-import '../../app/services/api/end_points.dart';
-import '../models/template_model.dart';
+import '../../../app/core/params/params.dart';
+import '../../../app/services/api/api_services.dart';
+import '../../../app/services/api/end_points.dart';
+import '../../models/template_model.dart';
 
 class TemplateRemoteDataSource {
   final ApiServices api;
